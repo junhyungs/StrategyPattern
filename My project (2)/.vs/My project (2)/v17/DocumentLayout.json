@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KGA\\My project (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\KGA\\My project (2)\\assets\\script\\myweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\myweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|c:\\users\\kga\\my project (2)\\assets\\script\\bullet\\fireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet\\fireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|c:\\users\\kga\\my project (2)\\assets\\script\\bullet\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|c:\\users\\kga\\my project (2)\\assets\\script\\bullet\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\KGA\\My project (2)\\assets\\script\\poolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\poolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\KGA\\My project (2)\\assets\\script\\weapon\\bow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\bow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\KGA\\My project (2)\\assets\\script\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\KGA\\My project (2)\\assets\\script\\weapon\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\KGA\\My project (2)\\assets\\script\\weapon\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\KGA\\My project (2)\\assets\\script\\weapon\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|c:\\users\\kga\\my project (2)\\assets\\script\\bullet\\gunbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet\\gunbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\KGA\\My project (2)\\assets\\script\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\KGA\\My project (2)\\assets\\script\\ihitable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ihitable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\KGA\\My project (2)\\assets\\script\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GunBullet.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Bullet\\GunBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullet\\GunBullet.cs",
+              "ToolTip": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Bullet\\GunBullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullet\\GunBullet.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:27:11.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FireBall.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Bullet\\FireBall.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullet\\FireBall.cs",
+              "ToolTip": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Bullet\\FireBall.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullet\\FireBall.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:24:02.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arrow.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Bullet\\Arrow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullet\\Arrow.cs",
+              "ToolTip": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Bullet\\Arrow.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullet\\Arrow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:23:13.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IHitAble.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\IHitAble.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\IHitAble.cs",
+              "ToolTip": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\IHitAble.cs",
+              "RelativeToolTip": "Assets\\Script\\IHitAble.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:17:24.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Bullet\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullet\\Bullet.cs",
+              "ToolTip": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Bullet\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullet\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:14:01.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PoolManager.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\PoolManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PoolManager.cs",
+              "ToolTip": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\PoolManager.cs",
+              "RelativeToolTip": "Assets\\Script\\PoolManager.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:10:43.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Weapon\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\Weapon.cs",
+              "ToolTip": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Weapon\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\Weapon.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwCEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:08:50.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Singleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Singleton.cs",
+              "ToolTip": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Singleton.cs",
+              "RelativeToolTip": "Assets\\Script\\Singleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:55:19.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeaponManager.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\WeaponManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WeaponManager.cs",
+              "ToolTip": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\WeaponManager.cs",
+              "RelativeToolTip": "Assets\\Script\\WeaponManager.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwCAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:54:30.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hand.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Weapon\\Hand.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\Hand.cs",
+              "ToolTip": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Weapon\\Hand.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\Hand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:47:43.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Weapon\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\Gun.cs",
+              "ToolTip": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Weapon\\Gun.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\Gun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:47:34.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bow.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Weapon\\Bow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\Bow.cs",
+              "ToolTip": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\Weapon\\Bow.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\Bow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:46:59.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\IWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\IWeapon.cs",
+              "ToolTip": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\IWeapon.cs",
+              "RelativeToolTip": "Assets\\Script\\IWeapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:41:50.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\MyWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MyWeapon.cs",
+              "ToolTip": "C:\\Users\\KGA\\My project (2)\\Assets\\Script\\MyWeapon.cs",
+              "RelativeToolTip": "Assets\\Script\\MyWeapon.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:37:03.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
